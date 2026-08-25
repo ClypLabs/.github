@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00EFBF,50:00D9D8,100:1277E0&height=170&section=header&text=ClypLabs&fontSize=58&fontColor=ffffff&fontAlignY=33&desc=Clip%20recording%20and%20editing%20for%20Windows&descSize=16&descAlignY=55" alt="" />
+<img width="100%" src="./banner.png" alt="ClypLabs - clip recording and editing for Windows" />
 
 <p align="center">
   <b>ClypDat</b> records continuously into a rolling buffer. Press the hotkey and the last few minutes<br />
@@ -32,4 +32,4 @@
   <a href="mailto:hi@clypdat.xyz">hi@clypdat.xyz</a> for anything else
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1277E0,50:00D9D8,100:00EFBF&height=100&section=footer" alt="" />
+<img width="100%" src="./footer.png" alt="" />
