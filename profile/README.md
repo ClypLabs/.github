@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://clypdat.xyz"><img src="https://img.shields.io/badge/Download_for_Windows-05C7B7?style=for-the-badge&logo=windows&logoColor=white" alt="Download" /></a>
+  <a href="[https://clypdat.xyz](https://www.clypdat.xyz/#download)"><img src="https://img.shields.io/badge/Download_for_Windows-05C7B7?style=for-the-badge&logo=windows&logoColor=white" alt="Download" /></a>
   <a href="https://github.com/ClypLabs/ClypDat/releases/latest"><img src="https://img.shields.io/github/v/release/ClypLabs/ClypDat?style=for-the-badge&label=&color=2F9DD4&labelColor=2F9DD4" alt="Latest release" /></a>
   <a href="https://github.com/ClypLabs/ClypDat/blob/master/LICENSE"><img src="https://img.shields.io/badge/GPL--3.0-CA8F1B?style=for-the-badge" alt="Licence" /></a>
 </p>
