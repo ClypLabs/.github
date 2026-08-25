@@ -22,8 +22,8 @@
 
 <p align="center">
   <b><a href="https://github.com/ClypLabs/ClypDat">ClypDat</a></b> — the desktop app &nbsp;·&nbsp;
-  <b><a href="https://github.com/ClypLabs/webapp">webapp</a></b> — the site and download mirror &nbsp;·&nbsp;
-  <b><a href="https://github.com/ClypLabs/clypdat-avalonia">clypdat-avalonia</a></b> — the Avalonia fork behind the UI
+  <b><a href="https://github.com/ClypLabs/webapp">ClypDat-WebApp</a></b> — the site and download mirror &nbsp;·&nbsp;
+  <b><a href="https://github.com/ClypLabs/clypdat-avalonia">ClypDat-Avalonia</a></b> — the Avalonia fork behind the UI
 </p>
 
 <p align="center">
