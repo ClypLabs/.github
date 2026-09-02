@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://github.com/ClypLabs/ClypDat/issues">Issues</a> for bugs ·
-  <a href="https://github.com/ClypLabs/ClypDat/security/policy">the policy</a> for security ·
+  <a href="https://github.com/ClypLabs/ClypDat/security/policy">The policy</a> for security ·
   <a href="mailto:hi@clypdat.xyz">hi@clypdat.xyz</a> for anything else
 </p>
 
